@@ -24,3 +24,9 @@ bower install
 ```
 npm install
 ```
+
+3 - Launch Grunt
+
+```
+grunt
+```
