@@ -5,14 +5,22 @@ Grunt plugins configuration
 
 ### Installation
 
-Install bower and grunt-cli:
+1 - Install bower and grunt-cli:
 
-    sudo npm install -g bower
-    sudo npm install -g grunt-cli
+```
+npm install -g bower
+```
 
-Install bower and node dependencies:
+```
+npm install -g grunt-cli
+```
 
-    bower install
+2 - Install bower and node dependencies:
 
-    npm install
+```
+bower install
+```
 
+```
+npm install
+```
