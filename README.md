@@ -1,11 +1,11 @@
 Grunt plugins configuration
 ===========================
 
-### A grunt configuration example.
+### A Grunt configuration example.
 
 ### Installation
 
-1 - Install bower and grunt-cli:
+1 - Install Bower and grunt-cli:
 
 ```
 npm install -g bower
@@ -15,7 +15,7 @@ npm install -g bower
 npm install -g grunt-cli
 ```
 
-2 - Install bower and node dependencies:
+2 - Install Bower and Node.js dependencies:
 
 ```
 bower install
